@@ -22,15 +22,15 @@
   };
 
   var GREETING = [
-    "Hey! I\u2019m **Laila**, your dive advisor at FlyingFish Scuba School \u2014 Goa\u2019s premier SSI-certified dive centre \uD83C\uDF0A",
+    "Hey! I\u2019m **Laila**, your dive advisor at FlyingFish Scuba School \u2014 Goa\u2019s premier SSI-certified dive centre.",
     "",
     "I can help you with:",
-    "- **Scuba diving packages** & prices",
-    "- **SSI & PADI certification** courses",
+    "- Scuba diving **packages & prices**",
+    "- **SSI & PADI** certification courses",
     "- **Booking** your dive experience",
-    "- Any questions about **diving in Goa**",
+    "- Questions about **diving in Goa**",
     "",
-    "What brings you here today?",
+    "What brings you here today? \uD83E\uDD3F",
   ].join("\n");
 
   var sid = null;

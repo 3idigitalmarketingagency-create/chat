@@ -1,7 +1,6 @@
 /* ═══════════════════════════════════════════════════════════
    FlyingFish Chatbot Widget
    ═══════════════════════════════════════════════════════════ */
-/* Fonts loaded via widget.js <link> tag for reliability */
 
 :root {
   --ff-cyan: #06b6d4;
@@ -137,11 +136,11 @@
   position: absolute;
   bottom: 80px;
   right: 0;
-  width: 440px;
+  width: 420px;
   max-width: calc(100vw - 32px);
-  height: 640px;
+  height: 620px;
   max-height: calc(100vh - 120px);
-  border-radius: 24px;
+  border-radius: 20px;
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -168,10 +167,10 @@
 .ff-header {
   background: linear-gradient(160deg, #091520 0%, var(--ff-abyss) 40%, var(--ff-deep) 100%);
   color: white;
-  padding: 22px 24px;
+  padding: 18px 20px;
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: 14px;
   flex-shrink: 0;
   position: relative;
   overflow: hidden;
@@ -198,8 +197,8 @@
 }
 
 .ff-header-avatar {
-  width: 48px;
-  height: 48px;
+  width: 44px;
+  height: 44px;
   border-radius: 50%;
   flex-shrink: 0;
   overflow: hidden;
@@ -225,31 +224,31 @@
 
 .ff-header-name {
   font-family: var(--ff-display);
-  font-size: 17px;
+  font-size: 15px;
   font-weight: 600;
   letter-spacing: 0.3px;
 }
 
 .ff-header-status {
-  font-size: 12.5px;
+  font-size: 12px;
   opacity: 0.75;
-  margin-top: 4px;
+  margin-top: 3px;
   display: flex;
   align-items: center;
   gap: 7px;
 }
 
 .ff-status-dot {
-  width: 8px;
-  height: 8px;
+  width: 7px;
+  height: 7px;
   border-radius: 50%;
   background: #34d399;
   box-shadow: 0 0 6px rgba(52, 211, 153, 0.7);
 }
 
 .ff-header-close {
-  width: 34px;
-  height: 34px;
+  width: 32px;
+  height: 32px;
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.1);
   background: rgba(255, 255, 255, 0.06);
@@ -270,8 +269,8 @@
 }
 
 .ff-header-close svg {
-  width: 15px;
-  height: 15px;
+  width: 14px;
+  height: 14px;
   fill: white;
 }
 
@@ -281,11 +280,11 @@
 .ff-messages {
   flex: 1;
   overflow-y: auto;
-  padding: 24px 20px;
-  background: linear-gradient(180deg, #ecfcfa 0%, var(--ff-sand) 140px, var(--ff-sand) 100%);
+  padding: 20px 18px;
+  background: linear-gradient(180deg, #ecfcfa 0%, var(--ff-sand) 120px, var(--ff-sand) 100%);
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 14px;
   scroll-behavior: smooth;
 }
 
@@ -306,9 +305,9 @@
    MESSAGE BUBBLES
    ═══════════════════════════════════════════════════════════ */
 .ff-msg {
-  max-width: 88%;
-  font-size: 14px;
-  line-height: 1.7;
+  max-width: 85%;
+  font-size: 13.5px;
+  line-height: 1.65;
   word-wrap: break-word;
   overflow-wrap: break-word;
   animation: ff-pop 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) both;
@@ -330,8 +329,8 @@
   align-self: flex-start;
   background: #ffffff;
   color: var(--ff-ink);
-  border-radius: 6px 20px 20px 20px;
-  padding: 16px 20px;
+  border-radius: 4px 18px 18px 18px;
+  padding: 14px 18px;
   box-shadow: 0 1px 4px rgba(11, 26, 43, 0.06);
   border: 1px solid rgba(6, 182, 212, 0.08);
 }
@@ -341,8 +340,8 @@
   align-self: flex-end;
   background: linear-gradient(135deg, var(--ff-teal), #0e9baa);
   color: white;
-  border-radius: 20px 20px 6px 20px;
-  padding: 14px 20px;
+  border-radius: 18px 18px 4px 18px;
+  padding: 12px 18px;
   box-shadow: 0 3px 12px rgba(13, 148, 136, 0.22);
 }
 
@@ -359,7 +358,7 @@
 }
 
 .ff-msg-bot p {
-  margin: 0 0 12px;
+  margin: 0 0 10px;
 }
 
 .ff-msg-bot p:last-child {
@@ -368,12 +367,12 @@
 
 .ff-msg-bot ul,
 .ff-msg-bot ol {
-  padding-left: 22px;
-  margin: 10px 0 14px;
+  padding-left: 20px;
+  margin: 8px 0 10px;
 }
 
 .ff-msg-bot li {
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   padding-left: 4px;
 }
 
@@ -401,23 +400,23 @@
   background: #e0faf6;
   padding: 2px 7px;
   border-radius: 5px;
-  font-size: 13px;
+  font-size: 12.5px;
   font-family: 'DM Mono', monospace;
 }
 
 .ff-msg-bot hr {
   border: none;
   border-top: 1px solid var(--ff-border);
-  margin: 14px 0;
+  margin: 12px 0;
 }
 
 .ff-msg-bot h3,
 .ff-msg-bot h4 {
   font-family: var(--ff-display);
   font-weight: 600;
-  font-size: 14.5px;
+  font-size: 13.5px;
   color: var(--ff-ink);
-  margin: 14px 0 6px;
+  margin: 12px 0 6px;
 }
 
 .ff-msg-bot h3:first-child,
@@ -430,19 +429,19 @@
    ═══════════════════════════════════════════════════════════ */
 .ff-typing {
   display: flex;
-  gap: 6px;
-  padding: 16px 22px;
+  gap: 5px;
+  padding: 14px 18px;
   align-self: flex-start;
   background: white;
-  border-radius: 6px 20px 20px 20px;
+  border-radius: 4px 18px 18px 18px;
   box-shadow: 0 1px 4px rgba(11, 26, 43, 0.06);
   border: 1px solid rgba(6, 182, 212, 0.08);
   animation: ff-pop 0.3s ease;
 }
 
 .ff-typing span {
-  width: 8px;
-  height: 8px;
+  width: 7px;
+  height: 7px;
   border-radius: 50%;
   background: var(--ff-cyan);
   opacity: 0.5;
@@ -463,7 +462,7 @@
     opacity: 0.35;
   }
   30% {
-    transform: translateY(-7px);
+    transform: translateY(-6px);
     opacity: 1;
   }
 }
@@ -474,18 +473,19 @@
 .ff-quick-replies {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
-  padding: 14px 20px 12px;
+  gap: 8px;
+  padding: 10px 18px 10px;
   background: var(--ff-sand);
+  border-top: 1px solid rgba(6, 182, 212, 0.06);
 }
 
 .ff-quick-btn {
-  padding: 10px 20px;
+  padding: 8px 16px;
   border: 1.5px solid #b2e0db;
   background: white;
   color: var(--ff-teal);
   border-radius: 9999px;
-  font-size: 13.5px;
+  font-size: 12.5px;
   font-weight: 500;
   font-family: var(--ff-font);
   cursor: pointer;
@@ -499,7 +499,7 @@
   color: white;
   border-color: var(--ff-teal);
   box-shadow: 0 4px 14px rgba(13, 148, 136, 0.25);
-  transform: translateY(-2px);
+  transform: translateY(-1px);
 }
 
 .ff-quick-btn:active {
@@ -510,11 +510,11 @@
    INPUT AREA
    ═══════════════════════════════════════════════════════════ */
 .ff-input-area {
-  padding: 16px 20px;
+  padding: 14px 18px;
   background: white;
   border-top: 1px solid #e8f0f0;
   display: flex;
-  gap: 12px;
+  gap: 10px;
   align-items: flex-end;
   flex-shrink: 0;
 }
@@ -523,8 +523,8 @@
   flex: 1;
   border: 1.5px solid #d1e0e8;
   border-radius: 9999px;
-  padding: 12px 20px;
-  font-size: 14px;
+  padding: 10px 18px;
+  font-size: 13.5px;
   font-family: var(--ff-font);
   outline: none;
   resize: none;
@@ -546,8 +546,8 @@
 }
 
 .ff-send-btn {
-  width: 44px;
-  height: 44px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   background: linear-gradient(135deg, var(--ff-teal), #0ea5b7);
   border: none;
@@ -577,8 +577,8 @@
 }
 
 .ff-send-btn svg {
-  width: 18px;
-  height: 18px;
+  width: 17px;
+  height: 17px;
   fill: white;
   margin-left: 2px;
 }
@@ -610,17 +610,17 @@
    ═══════════════════════════════════════════════════════════ */
 @media (max-width: 480px) {
   #ff-chatbot {
-    bottom: 16px;
-    right: 16px;
+    bottom: 12px;
+    right: 12px;
   }
 
   .ff-window {
-    width: calc(100vw - 32px);
-    height: calc(100vh - 100px);
-    max-height: calc(100vh - 100px);
+    width: calc(100vw - 24px);
+    height: calc(100vh - 90px);
+    max-height: calc(100vh - 90px);
     bottom: 72px;
     right: 0;
-    border-radius: 20px;
+    border-radius: 16px;
   }
 
   .ff-toggle {
@@ -634,38 +634,64 @@
   }
 
   .ff-header {
-    padding: 18px 18px;
+    padding: 14px 16px;
+    gap: 12px;
   }
 
   .ff-header-avatar {
-    width: 42px;
-    height: 42px;
+    width: 38px;
+    height: 38px;
+  }
+
+  .ff-header-name {
+    font-size: 14px;
   }
 
   .ff-messages {
-    padding: 20px 16px;
-    gap: 14px;
+    padding: 16px 14px;
+    gap: 12px;
   }
 
   .ff-msg {
-    max-width: 92%;
+    max-width: 90%;
+    font-size: 13px;
   }
 
   .ff-msg-bot {
-    padding: 14px 16px;
+    padding: 12px 14px;
+  }
+
+  .ff-msg-user {
+    padding: 10px 14px;
   }
 
   .ff-quick-replies {
-    padding: 12px 16px 10px;
-    gap: 8px;
+    padding: 8px 14px;
+    gap: 6px;
   }
 
   .ff-quick-btn {
-    font-size: 12.5px;
-    padding: 8px 16px;
+    font-size: 11.5px;
+    padding: 7px 13px;
   }
 
   .ff-input-area {
-    padding: 14px 16px;
+    padding: 12px 14px;
+    gap: 8px;
+  }
+
+  .ff-input {
+    padding: 9px 14px;
+    font-size: 13px;
+  }
+
+  .ff-send-btn {
+    width: 36px;
+    height: 36px;
+  }
+
+  .ff-send-btn svg {
+    width: 15px;
+    height: 15px;
   }
 }

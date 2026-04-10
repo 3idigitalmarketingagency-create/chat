@@ -245,6 +245,10 @@
   }
 
   /* ── Toggle ───────────────────────────────────── */
+  function isMobile() {
+    return window.innerWidth <= 480;
+  }
+
   function toggle() {
     open = !open;
     $("ff-w").classList.toggle("ff-visible", open);
@@ -255,7 +259,13 @@
         addMsg(GREETING, "bot");
         setTimeout(showQR, 350);
       }
-      $("ff-i").focus();
+      // Don't auto-focus input on mobile — prevents keyboard from opening
+      if (!isMobile()) {
+        $("ff-i").focus();
+      }
+    } else {
+      // Blur input on close to dismiss keyboard on mobile
+      $("ff-i").blur();
     }
   }
 

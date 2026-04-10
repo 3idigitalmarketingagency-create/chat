@@ -112,8 +112,11 @@ KNOWLEDGE BASE:
 ${knowledgeBase}`;
 
 // --- OpenAI client ---
+console.log("OPENAI_API_KEY set: " + (process.env.OPENAI_API_KEY ? "yes (" + process.env.OPENAI_API_KEY.slice(0, 8) + "...)" : "NO - MISSING!"));
+console.log("PORT: " + PORT);
+
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
+  apiKey: process.env.OPENAI_API_KEY || "missing",
 });
 
 // --- In-memory session store ---
@@ -277,6 +280,11 @@ app.post("/api/chat", async (req, res) => {
 });
 
 // --- Start server ---
+console.log("Starting server on port " + PORT + "...");
+console.log("__dirname: " + __dirname);
+console.log("Frontend path: " + path.join(__dirname, "..", "frontend"));
+console.log("Frontend exists: " + fs.existsSync(path.join(__dirname, "..", "frontend")));
+
 app.listen(PORT, "0.0.0.0", () => {
   console.log("FlyingFish Chatbot API running on port " + PORT);
   console.log("Knowledge base loaded: " + knowledgeBase.length + " characters");

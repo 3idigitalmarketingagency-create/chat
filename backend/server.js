@@ -1,4 +1,4 @@
-require("dotenv").config();
+require("dotenv").config({ path: require("path").join(__dirname, ".env") });
 const express = require("express");
 const cors = require("cors");
 const { v4: uuidv4 } = require("uuid");
@@ -277,7 +277,7 @@ app.post("/api/chat", async (req, res) => {
 });
 
 // --- Start server ---
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
   console.log("FlyingFish Chatbot API running on port " + PORT);
   console.log("Knowledge base loaded: " + knowledgeBase.length + " characters");
 });

@@ -67,13 +67,13 @@
     <div class="arrow">&darr;</div>
   </div>
 
-  <link rel="stylesheet" href="/widget/widget.css">
+  <link rel="stylesheet" href="/widget/widget.css?v=2">
   <script>
     // Auto-detect API URL: use current origin when deployed, localhost for dev
     var apiUrl = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
       ? 'http://localhost:3001'
       : window.location.origin;
-    document.write('<scr'+'ipt src="/widget/widget.js" data-api="'+apiUrl+'" defer><\/scr'+'ipt>');
+    document.write('<scr'+'ipt src="/widget/widget.js?v=2" data-api="'+apiUrl+'" defer><\/scr'+'ipt>');
     // Show status
     fetch(apiUrl + '/health').then(function(r){return r.json()}).then(function(){
       document.getElementById('status').textContent = 'Connected to ' + apiUrl;

@@ -199,8 +199,14 @@ app.use(
 );
 app.use(express.json({ limit: "10kb" }));
 
-// --- Serve frontend widget files ---
-app.use("/widget", express.static(path.join(__dirname, "..", "frontend")));
+// --- Serve frontend widget files (no cache for dev) ---
+app.use("/widget", express.static(path.join(__dirname, "..", "frontend"), {
+  etag: false,
+  maxAge: 0,
+  setHeaders: function(res) {
+    res.set("Cache-Control", "no-store, no-cache, must-revalidate");
+  }
+}));
 
 // --- Health check ---
 app.get("/health", (req, res) => {

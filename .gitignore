@@ -7,3 +7,4 @@ backend/.env
 screenshots/
 deploy/
 scuba-chatbot-plan.md
+scrape-standards.js

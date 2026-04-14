@@ -1,0 +1,157 @@
+{
+  "about": {
+    "name": "FlyingFish Scuba School",
+    "tagline": "Goa's premier scuba diving centre",
+    "certifications": "SSI and PADI globally certified instructors",
+    "operatingSince": 2016,
+    "happyDivers": "3,000+",
+    "rating": "4.8 stars on Google & TripAdvisor (632+ reviews)",
+    "location": "Novotel Resort & Spa, Candolim, Goa - 403515",
+    "phone": "+91 92092 47825",
+    "email": "hello@flyingfish.in",
+    "hours": "6 AM - 3 PM daily",
+    "diveSite": "Grande Island, 30 minutes by boat from Candolim",
+    "bestSeason": "October to May",
+    "closedSeason": "June–September (monsoon)",
+    "minAge": "10 years (parental consent under 18, no upper age limit)",
+    "insurance": "10 Lakh rupees coverage per person",
+    "founder": "Amitabh Gautam (former TV news pioneer, 25+ years in media, SSI Advanced Adventurer)",
+    "website": "https://lightcyan-hamster-760485.hostingersite.com",
+    "whatsapp": "+91 92092 47825",
+    "googleMaps": "FlyingFish Scuba School, Novotel Resort and Spa, Candolim, Goa"
+  },
+  "partnerships": [
+    "Goa Tourism (GTDC) — Official Partner",
+    "SSI (Scuba Schools International) — Certified Centre",
+    "Novotel Resort & Spa, Goa — Hospitality Partner"
+  ],
+  "whatMakesDifferent": [
+    "40-minute dives: 3x industry average (most Goa operators offer 10-15 min)",
+    "1:1 instructor ratio for all beginners",
+    "HD photos & videos FREE in ALL packages",
+    "Pool training at 5-star Novotel Resort",
+    "SSI certified instructors with 3,000+ combined dives",
+    "No swimming required for beginner packages",
+    "Transparent pricing — no hidden charges",
+    "10 Lakh insurance per person",
+    "ScubaPro professional equipment"
+  ],
+  "team": [
+    {"name": "Aaron Fernandes", "role": "Certified Scuba Instructor", "details": "Diving since 2007, 4,000+ Discover Scuba experiences, 150+ certifications"},
+    {"name": "Navalu Dinesh Patil", "role": "SSI Dive Master", "details": "3,000+ dives, diving since 2016"},
+    {"name": "Richie Thomas", "role": "SSI Open Water Instructor", "details": "3,000+ dives, 100+ certifications, diver since age 13"},
+    {"name": "Sunil", "role": "Office Manager", "details": "The quiet force that keeps everything flowing"},
+    {"name": "Amitabh Gautam", "role": "Founder", "details": "SSI Advanced Adventurer, 200+ logged dives worldwide"}
+  ],
+  "beginnerPackages": {
+    "note": "All packages include: 1:1 SSI-certified instructor, pool training at Novotel Resort & Spa, boat to Grande Island, HD photos and videos FREE, full equipment, snacks, 10 Lakh insurance.",
+    "namingRules": "Always say 'Scuba 20', 'Scuba 40', 'Scuba 40+40' — not 'twenty-minute package' or 'double dive'.",
+    "packages": [
+      {
+        "name": "Scuba 20",
+        "price": "₹2,970 + GST per person",
+        "duration": "Half day",
+        "diveTime": "20 minutes",
+        "depth": "6-10m",
+        "description": "A 20-minute dive into the sea. Pool training at Novotel, then a real shipwreck dive. HD photos & videos included.",
+        "bestFor": "Lighter intro option, shortest/most affordable"
+      },
+      {
+        "name": "Scuba 40",
+        "price": "₹5,940 + GST per person",
+        "duration": "Half day",
+        "diveTime": "40 minutes",
+        "depth": "6-12m",
+        "description": "Most popular package. 40-minute dive, pool training, shipwreck adventure, participation certificate, and referral cashback.",
+        "bestFor": "The proper dive experience most people want. MOST POPULAR.",
+        "highlight": true
+      },
+      {
+        "name": "Scuba 40+40",
+        "price": "₹8,910 + GST per person",
+        "duration": "Full day",
+        "diveTime": "Two 40-minute dives",
+        "depth": "6-12m",
+        "description": "Two dives — a shipwreck AND a coral garden. Includes buffet dinner at Novotel, A/C pickup & drop, social reel, and a free FlyingFish T-shirt.",
+        "bestFor": "The complete experience. BEST VALUE.",
+        "highlight": true
+      }
+    ]
+  },
+  "funDives": {
+    "note": "For certified divers only (SSI, PADI, NAUI, BSAC, CMAS). Location: 5 dive sites around Grande Island.",
+    "includes": "Guided dives, full ScubaPro equipment, boat, dive guide, snacks & fruits (Novotel hospitality), HD photos & videos, insurance.",
+    "packages": [
+      {"name": "2 Dives — 1 Day", "price": "₹5,940 + GST"},
+      {"name": "4 Dives — 2 Days", "price": "₹10,890 + GST", "discount": "save 8%"},
+      {"name": "6 Dives — 3 Days", "price": "₹14,950 + GST", "discount": "save 16%"}
+    ],
+    "details": "Max 4 divers per Divemaster. Free refresher if not dived in 12+ months. Nitrox (EANx32/36) available. Arrive at Novotel by 7:30 AM. Complimentary refresher — arrive by 6:30 AM."
+  },
+  "diveSites": [
+    {"name": "Grande Island Reef", "depth": "5-18m", "level": "All cert levels", "highlights": "Healthy coral gardens, moray eels, barracuda, snappers"},
+    {"name": "Suzy's Wreck", "depth": "12-18m", "level": "OW+ Certified", "highlights": "British-era vessel at ~40ft, soft corals, groupers, stingrays, moray eels"},
+    {"name": "Sail Rock", "depth": "14-24m", "level": "AOW Required", "highlights": "Rocky pinnacle with strong currents, eagle rays, drift diving"},
+    {"name": "Shelter Cove", "depth": "6-14m", "level": "All cert levels", "highlights": "Sheltered bay, macro life, nudibranchs"},
+    {"name": "Bounty Bay", "depth": "varies", "level": "All cert levels", "highlights": "Coral reef and sandy bottom"}
+  ],
+  "marineLife": "100+ species — angelfish, parrotfish, snappers, groupers, eagle rays, blue-spotted stingrays, moray eels, hawksbill and olive ridley sea turtles, nudibranchs, crinoids, pipefish",
+  "waterConditions": {"temp": "27-30°C", "visibility": "3-6 metres (varies by season)"},
+  "schedule": {
+    "note": "All food and beverages provided by Novotel. Timings may vary ±15 minutes.",
+    "timeline": [
+      "06:00 AM — Arrival at Novotel Resort. Park inside, fill forms, meet instructor.",
+      "06:15 AM — Safety & Dive Briefing. Dive plan, equipment, safety signals.",
+      "06:30 AM — Pool Training (1 hour). Breathing, buoyancy, underwater communication.",
+      "07:30 AM — Tea/Coffee Break",
+      "08:00 AM — Boat ride to Grande Island (~30 min)",
+      "08:30 AM — Arrive at dive site, gear up",
+      "09:00 AM — Dive! (20 or 40 minutes depending on package)",
+      "After dive — Surface interval, snacks, second dive if Scuba 40+40",
+      "~02:30 PM — Return to shore"
+    ]
+  },
+  "faqs": {
+    "swimming": "No swimming required for beginners — 1:1 instructor throughout. Yes for certification courses (200m swim, 10-min float).",
+    "ageLimit": "Minimum 10 years, parental consent under 18. No upper age limit.",
+    "weightLimit": "Some practical limits due to gear sizes — declare weight when booking.",
+    "glasses": "Prescription masks available — mention when booking.",
+    "contactLenses": "Soft contacts fine under mask.",
+    "scaredOfWater": "Normal! Pool training first, instructor beside you, signal to surface anytime.",
+    "medicalForm": "Required for all. Doctor's clearance if on daily medication.",
+    "asthma": "May be possible with mild, well-controlled asthma + doctor's clearance.",
+    "pregnant": "Cannot dive. Welcome on the boat trip for snorkeling.",
+    "period": "Yes, you can dive. Use tampon or menstrual cup.",
+    "flyingAfterDiving": "No flying for 18-24 hours after last dive.",
+    "alcohol": "No alcohol 24 hours before diving.",
+    "insurance": "10 Lakh rupees coverage per person.",
+    "ssiVsPadi": "Both are equally recognized worldwide. SSI is more affordable — that's why most divers choose it here.",
+    "isSafe": "1:1 instructor, SSI certified, 10 Lakh insurance, 3,000+ happy divers.",
+    "tooExpensive": "Scuba 40 includes everything — 40-min dive, photos, videos, equipment. Most operators charge extra for photos alone!",
+    "cantSwim": "No swimming needed! Your instructor stays right beside you the entire time.",
+    "photos": "HD photos and videos FREE in ALL packages. Shared via download link after the dive.",
+    "ownCamera": "GoPro/action camera may be allowed — check in advance.",
+    "whatToBring": "Swimwear, towel, change of clothes, sunscreen, sunglasses, valid government photo ID (mandatory). All diving equipment is provided.",
+    "whatToEat": "Light, easy-to-digest meal 1-2 hours before. Avoid heavy/greasy/spicy food. Stay hydrated. No alcohol night before or day of dive.",
+    "nonDivingCompanion": "Can join the boat and snorkel. Ask about charges."
+  },
+  "booking": {
+    "advance": "₹500 non-refundable per person via UPI/bank transfer. Balance on dive day.",
+    "paymentMethods": "UPI (GPay, PhonePe, Paytm), bank transfer, cash, cards.",
+    "cancellation": "7+ days = full refund minus ₹500. 3-7 days = 50% refund. Less than 3 days = no refund. Weather cancellation = full refund.",
+    "groupDiscount": "Yes — contact on WhatsApp for custom quote.",
+    "equipment": "All included — ScubaPro BCD, regulator, wetsuit, mask, fins, dive computer.",
+    "whatsapp": "+91 92092 47825",
+    "email": "hello@flyingfish.in"
+  },
+  "combos": {
+    "note": "FlyingFish offers bundle packages combining certifications.",
+    "examples": ["Open Water + Advanced combos", "Fun Dive + Nitrox combos", "Master diver bundles", "Custom group packages"],
+    "contact": "Contact WhatsApp for latest combo pricing and availability."
+  },
+  "internationalTrips": {
+    "note": "FlyingFish organizes international liveaboard dive trips from India.",
+    "destinations": ["Maldives", "Raja Ampat", "Similan Islands", "Red Sea", "Galapagos"],
+    "contact": "Contact for upcoming trip dates, pricing, and group discounts."
+  }
+}

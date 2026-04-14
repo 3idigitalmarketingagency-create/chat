@@ -1,0 +1,591 @@
+{
+  "courses": {
+    "try-scuba": {
+      "name": "Try Scuba",
+      "ssiCode": "TS-P",
+      "category": "experience",
+      "level": "beginner",
+      "description": "The SSI Try Scuba program is the best way to try scuba diving for the first time. You will be in confined water and well looked after by your instructor, so you can enjoy those first unforgettable breaths underwater and experience the magic of scuba diving. At the end of this short course, you will have earned your SSI Try Scuba recognition card.",
+      "minAge": 8,
+      "academicSessions": 1,
+      "poolSessions": 1,
+      "openWaterSessions": 0,
+      "maxDepth": "5m",
+      "suggestedDuration": "Not specified",
+      "prerequisites": "Fit to swim. No certification prerequisites.",
+      "courseLink": "https://www.divessi.com/en/get-certified/scuba-diving/try-scuba",
+      "bannerImage": "https://cdn.divessi.com/cached/products/product/TS-P-banner.jpg/600.jpg",
+      "nextSteps": ["Basic Diver", "Scuba Diver", "Open Water Diver"],
+      "flyingfishPrice": null,
+      "flyingfishNote": "FlyingFish offers beginner dive packages (Scuba 20, 40, 40+40) as the equivalent first-timer experience.",
+      "standards": {
+        "intent": "Introductory scuba experience in pool/confined water only. Recognition program — focus on safety and enjoyment, not teaching. No open water component.",
+        "minInstructorRating": "Active status Assistant Instructor",
+        "depthLimits": {
+          "poolConfinedWater": "5m max",
+          "openWater": "N/A — no open water component"
+        },
+        "inWaterRatios": {
+          "pool10Plus": "8:1 (certified assistants cannot increase ratio)",
+          "pool8to9": "4:1; may increase to 6:2 with 1 certified assistant",
+          "confinedWater10Plus": "4:1; may increase to 6:2 with 1 certified assistant",
+          "confinedWater8to9": "2:1; may increase to 4:2 with 1 certified assistant"
+        },
+        "supervision": "Active status Assistant Instructor or higher must directly supervise all activities. Physical contact with students must be possible at all times.",
+        "completionRequirements": "Complete all academic and in-water sessions. Skill demonstrations/evaluations only required if students will continue to Basic Diver.",
+        "certification": "Recognition program only — digital recognition card issued via MySSI. Not a full certification.",
+        "upgradePath": "Students who wish to continue register for Basic Diver, Scuba Diver, or Open Water Diver."
+      }
+    },
+    "basic-diver": {
+      "name": "Basic Diver",
+      "ssiCode": "BD",
+      "isoStandard": "ISO 11121",
+      "category": "experience",
+      "level": "beginner",
+      "description": "In the SSI Basic Diver program, you will learn the skills and knowledge you need to try diving up to 12 meters deep with an SSI Professional. It is a great way to explore the underwater world more fully. The entire Basic Diver program can be credited towards the Scuba Diver or Open Water Diver programs within 6 months.",
+      "minAge": 10,
+      "academicSessions": 1,
+      "poolSessions": 1,
+      "openWaterSessions": 1,
+      "maxDepth": "12m / 40ft",
+      "suggestedDuration": "10-12 hours",
+      "prerequisites": "Fit to swim. No certification prerequisites.",
+      "courseLink": "https://www.divessi.com/en/get-certified/scuba-diving/basic-diver",
+      "bannerImage": "https://cdn.divessi.com/cached/products/product/BD-banner.jpg/600.jpg",
+      "nextSteps": ["Scuba Diver", "Open Water Diver", "Perfect Buoyancy"],
+      "flyingfishPrice": null,
+      "flyingfishNote": "FlyingFish beginner packages (Scuba 20, 40, 40+40) include pool training and open water dives equivalent to this experience level.",
+      "standards": {
+        "intent": "Provides skills and knowledge to complete introductory scuba dives with an Open Water Instructor in open water. Does NOT result in entry-level certification.",
+        "minInstructorRating": "Active status Open Water Instructor",
+        "depthLimits": {
+          "poolConfinedWater": "5m max",
+          "openWater": "12m max"
+        },
+        "inWaterRatios": {
+          "pool": "8:1 (certified assistants cannot increase ratio)",
+          "confinedAndOpenWater": "4:1; may increase to 6:2 with 1 certified assistant",
+          "ageRestriction": "No more than 2 participants per instructor/assistant may be under 12; none of remaining may be under 15"
+        },
+        "supervision": "Academic and pool: Assistant Instructor or higher. Open water: Active status Open Water Instructor must directly supervise.",
+        "completionRequirements": "Complete all academic and pool/confined water sessions and assessments. Complete at least 1 open water training dive.",
+        "sequence": "Pool/confined water skills must be evaluated and completed before any open water activities.",
+        "certification": "Recognition program only — digital recognition card via MySSI. Valid for 6 months. After 6 months, must retake Basic Diver or register for Scuba Diver/Open Water Diver.",
+        "credit": "1 open water training dive may count toward Scuba Diver or Open Water Diver if completed within 6 months and conducted to minimum 5m depth for at least 15 minutes."
+      }
+    },
+    "scuba-diver": {
+      "name": "Scuba Diver",
+      "ssiCode": "SD",
+      "isoStandard": "ISO 24801-1",
+      "category": "entry-level",
+      "level": "beginner",
+      "description": "The SSI Scuba Diver program provides all you need to go open water diving up to 12 meters deep with an SSI Professional. It is your first exciting step towards being a fully certified Open Water Diver. You will complete almost half of the Open Water Diver course training and can upgrade your certification easily.",
+      "minAge": 10,
+      "academicSessions": 3,
+      "poolSessions": 2,
+      "openWaterSessions": 2,
+      "maxDepth": "12m / 40ft",
+      "suggestedDuration": "10-16 hours",
+      "prerequisites": "Fit to swim. No certification prerequisites.",
+      "courseLink": "https://www.divessi.com/en/get-certified/scuba-diving/scuba-diver",
+      "bannerImage": "https://my.divessi.com/img_repository/category/start_scuba-banner.jpg/600",
+      "nextSteps": ["Open Water Diver", "Enriched Air Nitrox", "Perfect Buoyancy"],
+      "flyingfishPrice": "₹17,820 + GST",
+      "flyingfishDuration": "2 days",
+      "standards": {
+        "intent": "Provides students with knowledge and training necessary to dive under the direct supervision of a dive professional, in environments equivalent with their training and to depths shallower than 12 meters.",
+        "minInstructorRating": "Active status Open Water Instructor",
+        "depthLimits": {
+          "poolConfinedWater": "5m max",
+          "minimumOpenWater": "5m",
+          "maximumOpenWater": "12m"
+        },
+        "inWaterRatios": {
+          "pool": "8:1; 10:2 with 1 assistant; 12:3 with 2 assistants",
+          "confinedAndOpenWater15Plus": "8:1; 10:2 with 1 assistant; 12:3 with 2 assistants",
+          "confinedAndOpenWater10to14": "4:1; 6:2 with 1 assistant; 8:3 with 2 assistants",
+          "ageRestriction": "No more than 2 participants per instructor/assistant under 12; none of remaining under 15"
+        },
+        "supervision": "Assistant Instructor may supervise academics and pool (except emergency ascent skills). Open Water Instructor must supervise all emergency ascent skills and all open water dives.",
+        "completionRequirements": "Complete Academic Sections 1-3 and assessments. Pass Scuba Diver final exam. Complete at least 3 pool/confined water sessions. Complete Student Water Fitness Evaluation. Complete at least 2 open water training dives.",
+        "sequence": "OW Dive 1 may be conducted before completing academics/pool requirements (must meet Basic Diver OW dive requirements). OW Dive 2 only after Academic Sessions 1-3 and Pool Sessions 2-3 completed.",
+        "certification": "Certified Scuba Divers can dive under the direct supervision of a dive professional in equivalent environments to depths shallower than 12m. Students under 15: Junior Scuba Diver.",
+        "upgradePath": "To upgrade to Open Water Diver: complete remaining Academic Sections 4-6, pass OWD final exam (80%+), complete 3 additional pool sessions (4-6), complete 2 additional OW training dives (3-4)."
+      }
+    },
+    "open-water-diver": {
+      "name": "Open Water Diver",
+      "ssiCode": "OWD",
+      "isoStandard": "ISO 24801-2",
+      "category": "entry-level",
+      "level": "beginner",
+      "description": "This globally recognized certification is the best way to begin your lifelong adventures as a certified scuba diver. Personalized training is combined with in-water practice sessions to ensure you have the skills and experience required to become truly comfortable underwater. You will earn the SSI Open Water Diver certification — your entry ticket to dive the world's best dive sites.",
+      "minAge": 10,
+      "academicSessions": 6,
+      "poolSessions": 6,
+      "openWaterSessions": 4,
+      "maxDepth": "18m / 60ft",
+      "suggestedDuration": "16-32 hours",
+      "prerequisites": "Fit to swim. No certification prerequisites. Must complete water fitness evaluation (200m swim + 10-min survival float).",
+      "courseLink": "https://www.divessi.com/en/get-certified/scuba-diving/open-water-diver",
+      "bannerImage": "https://my.divessi.com/img_repository/category/start_scuba-banner.jpg/600",
+      "nextSteps": ["Advanced Open Water Diver", "Enriched Air Nitrox", "Perfect Buoyancy", "Computer Diving"],
+      "flyingfishPrice": "₹27,000 + GST (SSI) / ₹35,472 + GST (PADI)",
+      "flyingfishDuration": "3-4 days",
+      "flyingfishNote": "MOST POPULAR certification course. Swimming required (200m swim, 10-min float).",
+      "standards": {
+        "intent": "Provides students with knowledge and training necessary to dive autonomously with an equally- or more-qualified buddy, in environments equivalent with their training and to depths shallower than 18 meters.",
+        "minInstructorRating": "Active status Open Water Instructor",
+        "depthLimits": {
+          "poolConfinedWater": "5m max",
+          "minimumOpenWater": "5m",
+          "owDives1and2": "12m max",
+          "owDives3and4": "18m max",
+          "age10and11": "12m max"
+        },
+        "inWaterRatios": {
+          "pool": "8:1; 10:2 with 1 assistant; 12:3 with 2 assistants",
+          "confinedAndOpenWater15Plus": "8:1; 10:2 with 1 assistant; 12:3 with 2 assistants",
+          "confinedAndOpenWater10to14": "4:1; 6:2 with 1 assistant; 8:3 with 2 assistants",
+          "ageRestriction": "No more than 2 participants per instructor/assistant under 12; none of remaining under 15"
+        },
+        "supervision": "Assistant Instructor may supervise academics and pool (except emergency ascent skills). OW Instructor must supervise all emergency ascent skills and all OW dives. Certified assistant may supervise max 2 students during excursion portion of OW dives after OW Dive 2.",
+        "equipment": "If dry suits used, OW Instructor must also be active status Dry Suit Diving Specialty Instructor.",
+        "completionRequirements": "Complete all academic sections and assessments. Pass Open Water Diver final exam. Complete all pool/confined water sessions and skill evaluations. Complete Student Water Fitness Evaluation. Complete at least 4 open water training dives on scuba.",
+        "sequence": "OW Dive 1 may be conducted before academics/pool (must meet Basic Diver OW dive requirements). OW Dive 2 only after Academic 1-3 and Pool 2-3. OW Dives 3-4 only after Academic 1-6 and Pool 4-6.",
+        "certification": "Certified Open Water Divers can dive with an equally- or more-qualified buddy in equivalent environments within recommended depth limits. Students under 15: Junior Open Water Diver — must dive under direct supervision of dive professional or with certified adult.",
+        "note": "OW Training Dives 1 and 2 may be completed in indoor diving facilities."
+      }
+    },
+    "advanced-open-water-diver": {
+      "name": "Advanced Open Water Diver",
+      "ssiCode": "AOWD",
+      "category": "continuing-education",
+      "level": "advanced",
+      "description": "Try 5 different SSI specialty programs in one course! You will do Deep Diving and Navigation plus 3 more specialty areas of your choice before committing to full specialty training. It is a great way to experience what advanced diver training is all about and how valuable it can be to your diving adventures.",
+      "minAge": 12,
+      "academicSessions": 5,
+      "poolSessions": null,
+      "openWaterSessions": 5,
+      "maxDepth": "30m / 100ft",
+      "suggestedDuration": "10-15 hours",
+      "prerequisites": "Open Water Diver certification (or equivalent from recognized agency).",
+      "courseLink": "https://www.divessi.com/en/advanced-training/scuba-diving/advanced-open-water-diver",
+      "bannerImage": "https://my.divessi.com/img_repository/category/lead_scuba-banner.jpg/600",
+      "nextSteps": ["Deep Diving", "Navigation", "Stress & Rescue", "Enriched Air Nitrox"],
+      "flyingfishPrice": "₹21,780 + GST (SSI) / ₹26,928 + GST (PADI)",
+      "flyingfishDuration": "2-3 days",
+      "standards": {
+        "intent": "Introduction to 5 different SSI specialty programs under direct supervision of an SSI Professional. Designed to give divers variety and fuel further education.",
+        "minInstructorRating": "Active status Open Water Instructor. Dedicated Equipment Specialty dives require Specialty Instructor cert for that specialty.",
+        "mandatoryDives": ["Deep Diving Open Water Training Dive 1", "Navigation Open Water Training Dive 1"],
+        "electiveDives": "Choose 3 from: Altitude Diving, Boat Diving, Cavern/Cenote Diving, Computer Diving, DPV Diving*, Dry Suit Diving*, Ecology programs, Enriched Air Nitrox, Night & Limited Visibility, Perfect Buoyancy, Photo & Video, Sidemount Diving*, Search & Recovery, Waves/Tides/Currents, Wreck Diving. *Starred require 1 pool session before OW dive.",
+        "depthLimits": {
+          "openWater": "30m max",
+          "age12to14DeepDive": "21m max",
+          "deepDiveFirst": "Deep Diving OW Dive 1 must be completed before any other dives deeper than 18m"
+        },
+        "inWaterRatios": {
+          "age15Plus": "8:1; 10:2 with 1 assistant; 12:3 with 2 assistants",
+          "age12to14": "4:1; no more than 2 students per instructor/assistant under 15",
+          "deepDivingOverheadDedicatedEquipment": "4:1 regardless of age; certified assistants cannot increase ratio"
+        },
+        "certification": "Advanced Open Water Diver. Dive privileges: with equally- or more-qualified buddy, max 30m. Under 15: Junior AOWD, max 21m, must dive with professional/certified adult. Junior upgrade at 15: conduct dive between 21-30m with OW Instructor.",
+        "credit": "Dives completed in AOWD may apply as first training dive of individual specialty programs, and vice versa."
+      }
+    },
+    "enriched-air-nitrox": {
+      "name": "Enriched Air Nitrox (EAN 32 & 40)",
+      "ssiCode": "SC-EAN",
+      "isoStandard": "ISO 11107",
+      "category": "continuing-education",
+      "level": "specialty",
+      "description": "As a Nitrox diver, you can increase your bottom times and safety margins, plus shorten your surface intervals — so you can spend more time diving and less time waiting! Learn how to safely plan and dive with enriched air mixtures of up to 40% oxygen. Upon completion, you earn an SSI Enriched Air Nitrox 32% or 40% certification.",
+      "minAge": 10,
+      "academicSessions": 4,
+      "poolSessions": null,
+      "openWaterSessions": null,
+      "maxDepth": "30m / 100ft",
+      "suggestedDuration": "3-6 hours",
+      "prerequisites": "Open Water Diver certification (or in combination with Open Water Diver program).",
+      "courseLink": "https://www.divessi.com/en/advanced-training/scuba-diving/enriched-air-nitrox-40",
+      "bannerImage": "https://cdn.divessi.com/cached/products/product/SC-EAN-banner.jpg/600.jpg",
+      "nextSteps": ["Deep Diving", "Navigation", "Wreck Diving"],
+      "flyingfishPrice": "₹9,405 + GST (SSI) / ₹17,870 + GST (PADI)",
+      "flyingfishDuration": "1-2 days",
+      "standards": {
+        "intent": "Basic knowledge and skills to safely dive using breathing gas with enriched oxygen mixtures.",
+        "twoCertifications": "EAN32 (up to 32% O2) and EAN40 (up to 40% O2, ISO 11107).",
+        "minInstructorRating": "Active status Enriched Air Nitrox Specialty Instructor",
+        "depthLimits": {
+          "poolConfinedWater": "5m max (if in-water training conducted)",
+          "openWater15Plus": "30m max",
+          "openWater12to14": "18m max",
+          "openWater10to11": "12m max"
+        },
+        "inWaterRatios": {
+          "age15Plus": "8:1; 10:2 with 1 assistant; 12:3 with 2 assistants",
+          "age12to14": "6:1",
+          "age10to11": "4:1; no more than 2 under 12, none remaining under 15"
+        },
+        "completionRequirements": {
+          "ean32": "Complete Academic Sessions 1-3. Pass final exam.",
+          "ean40": "Complete all academic sessions. Pass final exam. Complete practical application session."
+        },
+        "certification": "Digital certification card. Under 15: Junior Diver. EAN32 divers must have O2 percentage verified by dive professional before every dive.",
+        "combination": "Either EAN cert may be earned simultaneously with Open Water Diver by completing EAN academics during OWD training."
+      }
+    },
+    "perfect-buoyancy": {
+      "name": "Perfect Buoyancy",
+      "ssiCode": "SC-PB",
+      "category": "continuing-education",
+      "level": "specialty",
+      "description": "The SSI Perfect Buoyancy specialty is the best way to improve your buoyancy and get the most from every dive. Learn advanced buoyancy skills and techniques to master your buoyancy more quickly, improve body position for relaxed dives, lower air consumption and increase bottom times.",
+      "minAge": 10,
+      "academicSessions": 4,
+      "poolSessions": 2,
+      "openWaterSessions": null,
+      "maxDepth": "30m / 100ft",
+      "suggestedDuration": "5-10 hours",
+      "prerequisites": "Open Water Diver certification (or in combination with Open Water Diver program).",
+      "courseLink": "https://www.divessi.com/en/advanced-training/scuba-diving/perfect-buoyancy",
+      "bannerImage": "https://cdn.divessi.com/cached/products/product/SC-PB-banner.jpg/600.jpg",
+      "nextSteps": ["Deep Diving", "Photo & Video", "Waves, Tides & Currents"],
+      "flyingfishPrice": "₹12,276 + GST",
+      "flyingfishDuration": "1-2 days",
+      "standards": {
+        "intent": "Knowledge and skills to improve diving position and buoyancy control, and to safely minimize breathing gas consumption.",
+        "minInstructorRating": "Active status Perfect Buoyancy Specialty Instructor",
+        "depthLimits": {
+          "poolConfinedWater": "5m max",
+          "openWater15Plus": "30m max",
+          "openWater12to14": "18m max",
+          "openWater10to11": "12m max"
+        },
+        "inWaterRatios": {
+          "age15Plus": "8:1; 10:2 with 1 assistant; 12:3 with 2 assistants",
+          "age12to14": "6:1",
+          "age10to11": "4:1; no more than 2 under 12, none remaining under 15"
+        },
+        "completionRequirements": "Complete all academic sessions and assessments. Pass final exam. Complete at least 2 in-water training sessions.",
+        "certification": "Digital certification card. Under 15: Junior Diver.",
+        "combination": "May be earned simultaneously with Open Water Diver by completing all required sessions during OWD training."
+      }
+    },
+    "navigation": {
+      "name": "Navigation",
+      "ssiCode": "SC-NAV",
+      "category": "continuing-education",
+      "level": "specialty",
+      "description": "Gain the advanced skills and knowledge to safely and confidently navigate underwater. Learn how to use a compass and natural navigation techniques, estimate distance, how to leave and return to a designated point, plus basic navigation patterns. Earn the SSI Navigation Specialty certification.",
+      "minAge": 10,
+      "academicSessions": 5,
+      "poolSessions": null,
+      "openWaterSessions": 2,
+      "maxDepth": "30m / 100ft",
+      "suggestedDuration": "5-10 hours",
+      "prerequisites": "Open Water Diver certification.",
+      "courseLink": "https://www.divessi.com/en/advanced-training/scuba-diving/navigation",
+      "bannerImage": "https://cdn.divessi.com/cached/products/product/SC-NAV-banner.jpg/600.jpg",
+      "nextSteps": ["Dry Suit Diving", "Night Diving & Limited Visibility"],
+      "flyingfishPrice": "₹8,910 + GST",
+      "flyingfishDuration": "1-2 days",
+      "standards": {
+        "intent": "Knowledge and skills to safely navigate underwater using natural and compass navigation techniques.",
+        "minInstructorRating": "Active status Navigation Specialty Instructor",
+        "depthLimits": {
+          "openWater15Plus": "30m max",
+          "openWater12to14": "18m max",
+          "openWater10to11": "12m max"
+        },
+        "inWaterRatios": {
+          "age15Plus": "8:1; 10:2 with 1 assistant; 12:3 with 2 assistants",
+          "age12to14": "6:1",
+          "age10to11": "4:1; no more than 2 under 12, none remaining under 15"
+        },
+        "completionRequirements": "Complete all academic sessions and assessments. Pass final exam. Complete at least 2 open water training dives.",
+        "certification": "Digital certification card. Under 15: Junior Diver."
+      }
+    },
+    "react-right": {
+      "name": "React Right (First Aid / CPR / AED / O2)",
+      "ssiCode": "RR",
+      "category": "safety-rescue",
+      "level": "specialty",
+      "description": "SSI's emergency first response course provides you with the training and knowledge you need to act as a first responder in a medical emergency. Choose from primary assessment, first aid, CPR, primary stabilization techniques, oxygen administration in diving emergencies, and AED basics. Each portion can be taught individually or in any combination.",
+      "minAge": 12,
+      "academicSessions": 6,
+      "poolSessions": null,
+      "openWaterSessions": null,
+      "maxDepth": "0m (classroom/land-based only)",
+      "suggestedDuration": "8-12 hours",
+      "prerequisites": "None.",
+      "courseLink": "https://www.divessi.com/en/advanced-training/scuba-diving/react-right---course-combination-fa-cpr-aed-o2",
+      "bannerImage": "https://cdn.divessi.com/cached/products/product/RR-banner.jpg/600.jpg",
+      "nextSteps": ["Diver Stress & Rescue", "Divemaster"],
+      "flyingfishPrice": "₹9,405 + GST (SSI) / ₹14,801 + GST (PADI EFR)",
+      "flyingfishDuration": "1 day",
+      "standards": {
+        "intent": "Provides students with knowledge and training to act as a first responder and provide first aid and CPR, administer oxygen and/or provide AED support in a medical emergency.",
+        "sections": "First Aid and CPR (5 hours), AED Provider (1 hour), Oxygen Provider (2 hours). May be taught individually or in any combination.",
+        "minInstructorRating": "Active status React Right Instructor",
+        "ratios": "No maximum student-to-instructor ratio. Instructor must have sufficient training aids and ability to control and supervise all participants.",
+        "completionRequirements": "Complete academic and practical training scenarios. Pass final exam for each section completed.",
+        "certification": "Digital certification card. Valid for 2 years. Qualifies holder to act as first responder. Fulfills prerequisite for Diver Stress & Rescue and all SSI professional programs.",
+        "credit": "Students with cert from recognized agency may upgrade by purchasing React Right digital learning, completing a React Right Update, and passing a final exam."
+      }
+    },
+    "diver-stress-rescue": {
+      "name": "Diver Stress & Rescue",
+      "ssiCode": "SC-SR",
+      "category": "safety-rescue",
+      "level": "advanced",
+      "description": "Learn the skills to protect yourself and other divers. Identify stress, prevent accidents, and practice rescue techniques and emergency care. With pool and open water practice sessions, you will become well prepared and confident at handling emergency and rescue situations.",
+      "minAge": 12,
+      "academicSessions": 6,
+      "poolSessions": 3,
+      "openWaterSessions": 3,
+      "maxDepth": "18m / 60ft",
+      "suggestedDuration": "10-15 hours",
+      "prerequisites": "Open Water Diver certification + valid First Aid certification (not older than 2 years). Must have current O2 Provider, First Aid, and CPR training.",
+      "courseLink": "https://www.divessi.com/en/advanced-training/scuba-diving/stress-and-rescue",
+      "bannerImage": "https://cdn.divessi.com/cached/products/product/SC-SR-banner.jpg/600.jpg",
+      "nextSteps": ["React Right", "Divemaster"],
+      "flyingfishPrice": "₹26,928 + GST (SSI) / ₹32,819 + GST (PADI)",
+      "flyingfishDuration": "3-4 days",
+      "standards": {
+        "intent": "Knowledge and skills to identify stress, prevent incidents, and manage common emergency situations encountered by recreational divers.",
+        "minInstructorRating": "Active status Diver Stress & Rescue Specialty Instructor",
+        "depthLimits": {
+          "openWater": "18m max",
+          "rescuingUnconsciousDiver": "9m max"
+        },
+        "inWaterRatios": {
+          "age15Plus": "8:1; 10:2 with 1 assistant; 12:3 with 2 assistants",
+          "age12to14": "6:1"
+        },
+        "completionRequirements": "Complete all academic sessions and assessments. Pass final exam. Complete at least 3 pool/confined water sessions. Complete at least 3 open water training dives. Must hold OWD cert before certification issued.",
+        "certification": "Diver Stress & Rescue digital certification card. Under 15: Junior Diver version. Junior upgrade at 15 — SSI recommends completing full skill circuit."
+      }
+    },
+    "search-and-recovery": {
+      "name": "Search & Recovery",
+      "ssiCode": "SC-SAR",
+      "category": "continuing-education",
+      "level": "specialty",
+      "description": "Learn all the skills to safely and confidently conduct search and recovery dives. Master search patterns, specialized dive plans, and equipment such as lift bags, lines and reels. Develop search and communication techniques and practice searches in a dive team.",
+      "minAge": 12,
+      "academicSessions": 4,
+      "poolSessions": 1,
+      "openWaterSessions": 2,
+      "maxDepth": "30m / 100ft",
+      "suggestedDuration": "10-15 hours",
+      "prerequisites": "Open Water Diver certification.",
+      "courseLink": "https://www.divessi.com/en/advanced-training/scuba-diving/search-and-recovery",
+      "bannerImage": "https://cdn.divessi.com/cached/products/product/SC-SAR-banner.jpg/600.jpg",
+      "nextSteps": ["Night Diving & Limited Visibility", "Navigation", "Stress & Rescue"],
+      "flyingfishPrice": "₹13,464 + GST",
+      "flyingfishDuration": "2-3 days",
+      "standards": {
+        "intent": "Knowledge and skills to safely and comfortably perform basic search and recovery dives for small objects.",
+        "minInstructorRating": "Active status Search and Recovery Specialty Instructor",
+        "depthLimits": {
+          "openWater15Plus": "30m max",
+          "openWater12to14": "18m max"
+        },
+        "inWaterRatios": {
+          "allAges": "4:1 (no certified assistant ratio increase)"
+        },
+        "completionRequirements": "Complete all academic sessions and assessments. Pass final exam. Complete at least 1 pool/confined water session. Complete at least 2 open water training dives.",
+        "sequence": "Pool/confined water session MANDATORY before any open water training dives.",
+        "certification": "Digital certification card. Under 15: Junior Diver."
+      }
+    },
+    "divemaster": {
+      "name": "Divemaster",
+      "ssiCode": "DM",
+      "isoStandard": "ISO 24801-3",
+      "category": "professional",
+      "level": "professional",
+      "description": "The Divemaster program is the first step on an exciting professional journey. Earn the respect of your dive buddies and become an ambassador for diving. You will be certified as a Dive Guide after completing the program. Upgrade to Divemaster with 60 logged dives and the Science of Diving materials.",
+      "minAge": 18,
+      "academicSessions": 10,
+      "poolSessions": 4,
+      "openWaterSessions": 60,
+      "maxDepth": "40m / 130ft",
+      "suggestedDuration": "35-57 hours",
+      "prerequisites": "Minimum 60 logged open water dives (40+ hours total). Diver Stress & Rescue certification. Deep Diving, Navigation, Night & Limited Visibility certifications (or 5+ logged/verified dives in each area).",
+      "courseLink": "https://www.divessi.com/en/professional/scuba-diving/divemaster",
+      "bannerImage": "https://my.divessi.com/img_repository/category/lead_scuba-banner.jpg/600",
+      "nextSteps": ["Science of Diving", "Instructor Training Course (ITC)", "Open Water Instructor"],
+      "flyingfishPrice": "₹91,278 + GST (SSI Divemaster Bundle)",
+      "flyingfishDuration": "30-60 days internship",
+      "standards": {
+        "intent": "Knowledge and training to guide certified divers and act as a certified assistant for some recreational scuba training programs.",
+        "minInstructorRating": "Active status Dive Guide Instructor",
+        "depthLimits": {
+          "openWater": "40m max"
+        },
+        "supervision": "Active status Dive Guide Instructor must directly supervise ALL academic, pool/confined water, and open water activities.",
+        "completionRequirements": "Pass all requirements and evaluations in the Divemaster instructor manual. Pass Divemaster final exam. Pass the Science of Diving final exam. Complete active status requirements for an SSI Professional.",
+        "certification": "Divemaster digital certification card. May act as certified assistant for all SSI recreational scuba programs. May assist during OW training dives by taking max 2 students on excursion. May register for Ecology Specialty Instructor training. May enroll in SSI Instructor Training Course.",
+        "upgradePath": "SSI Dive Guide to Divemaster upgrade: meet DM prerequisites, meet active status requirements, pass Science of Diving final exam."
+      }
+    }
+  },
+  "ecology": {
+    "sharedStandards": {
+      "intent": "Provide students with basic knowledge and skills to identify various species of marine organisms and explain their role in the ocean's ecosystems.",
+      "note": "These programs have NO mandatory in-water training requirements. SSI Professionals are encouraged to add in-water training to increase value.",
+      "allSpecialties": ["Coral Identification", "Fish Identification", "Manta and Ray Ecology", "Marine Invertebrate Ecology", "Marine Ecology", "Marine Mammal Ecology", "Nudibranch Ecology", "Sea Turtle Ecology", "Shark Ecology"],
+      "minInstructorRating": "Any active-status SSI Professional with the applicable certification.",
+      "prerequisites": {
+        "snorkel": "Minimum age 6. SSI Snorkel Diver or equivalent (if in-water training conducted).",
+        "scuba": "Minimum age 10. SSI Referral Diver or equivalent (if in-water training conducted)."
+      },
+      "duration": "3-6 hours",
+      "depthLimits": {
+        "snorkel": "5m open water max",
+        "scubaPool": "5m max",
+        "scubaOpenWater": "30m max",
+        "scuba12to14": "18m max",
+        "scuba10to11": "12m max"
+      },
+      "inWaterRatios": {
+        "scuba15Plus": "8:1; 10:2 with 1 assistant; 12:3 with 2 assistants",
+        "scuba12to14": "6:1",
+        "scuba10to11": "4:1 (no more than 2 under 12; none remaining under 15)",
+        "snorkel6to9": "8:1; 10:2 with 1 assistant; 12:3 with 2 assistants"
+      },
+      "completionRequirements": "Complete all academic sessions and assessments per instructor manual. Pass final exam.",
+      "certification": "Digital certification card. Under 15: Junior Diver version."
+    },
+    "programs": {
+      "marine-ecology": {
+        "name": "Marine Ecology",
+        "ssiCode": "SC-NAT",
+        "description": "Learn how ocean organisms interact with each other and their environments, how energy flows through ocean communities, and the links between ocean ecosystems.",
+        "minAge": 6,
+        "academicSessions": 6,
+        "suggestedDuration": "3-6 hours",
+        "prerequisites": "None (academic only). If in-water: Snorkel Diver (age 6+) or Referral Diver (age 10+).",
+        "courseLink": "https://www.divessi.com/en/get-certified/environment/marine-ecology",
+        "bannerImage": "https://cdn.divessi.com/cached/products/product/SC-NAT-banner.jpg/600.jpg",
+        "flyingfishPrice": "₹6,600 + GST",
+        "flyingfishDuration": "1-2 days"
+      },
+      "coral-identification": {
+        "name": "Coral Identification",
+        "ssiCode": "SC-COI",
+        "description": "Learn to identify different coral species and discover what makes each coral special. Get the most out of every reef dive by understanding what you see.",
+        "minAge": 6,
+        "academicSessions": 7,
+        "suggestedDuration": "3-6 hours",
+        "prerequisites": "None (academic only). If in-water: Snorkel Diver (age 6+) or Referral Diver (age 10+).",
+        "courseLink": "https://www.divessi.com/en/get-certified/environment/coral-identification",
+        "bannerImage": "https://cdn.divessi.com/cached/products/product/SC-COI-banner.jpg/600.jpg",
+        "flyingfishPrice": null,
+        "flyingfishNote": "Contact FlyingFish for availability and pricing."
+      },
+      "fish-identification": {
+        "name": "Fish Identification",
+        "ssiCode": "SC-FID",
+        "description": "Learn to identify common families of Caribbean, Indo-Pacific and Red Sea reef fish. Enhance your diving experience by knowing what you're looking at underwater.",
+        "minAge": 6,
+        "academicSessions": 8,
+        "suggestedDuration": "3-6 hours",
+        "prerequisites": "None (academic only). If in-water: Snorkel Diver (age 6+) or Referral Diver (age 10+).",
+        "courseLink": "https://www.divessi.com/en/get-certified/environment/fish-identification",
+        "bannerImage": "https://cdn.divessi.com/cached/products/product/SC-FID-banner.jpg/600.jpg",
+        "flyingfishPrice": null,
+        "flyingfishNote": "Contact FlyingFish for availability and pricing."
+      },
+      "manta-and-ray-ecology": {
+        "name": "Manta & Ray Ecology",
+        "ssiCode": "SC-MAN",
+        "description": "Dive with rays, recognize different species, and understand the vital role they play in our ocean ecosystems. Learn how these graceful creatures interact with their environment.",
+        "minAge": 6,
+        "academicSessions": 5,
+        "suggestedDuration": "3-6 hours",
+        "prerequisites": "None (academic only). If in-water: Snorkel Diver (age 6+) or Referral Diver (age 10+).",
+        "courseLink": "https://www.divessi.com/en/get-certified/environment/manta-and-ray-ecology",
+        "bannerImage": "https://cdn.divessi.com/cached/products/product/SC-MAN-banner.jpg/600.jpg",
+        "flyingfishPrice": null,
+        "flyingfishNote": "Contact FlyingFish for availability and pricing."
+      },
+      "shark-ecology": {
+        "name": "Shark Ecology",
+        "ssiCode": "SC-SHA",
+        "description": "Learn to interpret shark behaviours, why they are often misunderstood, and how to dive safely with sharks. Perfect for shark fans and divers who want to overcome their fear of sharks.",
+        "minAge": 6,
+        "academicSessions": 7,
+        "suggestedDuration": "3-6 hours",
+        "prerequisites": "None (academic only). If in-water: Snorkel Diver (age 6+) or Referral Diver (age 10+).",
+        "courseLink": "https://www.divessi.com/en/get-certified/environment/shark-ecology",
+        "bannerImage": "https://cdn.divessi.com/cached/products/product/SC-SHA-banner.jpg/600.jpg",
+        "flyingfishPrice": null,
+        "flyingfishNote": "Contact FlyingFish for availability and pricing."
+      },
+      "sea-turtle-ecology": {
+        "name": "Sea Turtle Ecology",
+        "ssiCode": "SC-STE",
+        "description": "Identify common sea turtle species, learn their history, understand their role in marine ecosystems, and discover threats to their survival. Become an ocean advocate!",
+        "minAge": 6,
+        "academicSessions": 5,
+        "suggestedDuration": "3-6 hours",
+        "prerequisites": "None (academic only). If in-water: Snorkel Diver (age 6+) or Referral Diver (age 10+).",
+        "courseLink": "https://www.divessi.com/en/get-certified/environment/sea-turtle-ecology",
+        "bannerImage": "https://cdn.divessi.com/cached/products/product/SC-STE-banner.jpg/600.jpg",
+        "flyingfishPrice": null,
+        "flyingfishNote": "Contact FlyingFish for availability and pricing."
+      }
+    }
+  },
+  "additionalCourses": {
+    "confined-water-diving": {
+      "name": "SSI Confined Water Diving",
+      "description": "Pool-only intro to scuba diving skills.",
+      "flyingfishPrice": "₹990 + GST",
+      "flyingfishDuration": "2-3 hours"
+    },
+    "scuba-skills-update": {
+      "name": "Scuba Skills Update / Refresher",
+      "description": "Refresh your dive skills if you haven't dived recently.",
+      "flyingfishPrice": "₹990 + GST",
+      "flyingfishDuration": "Half day"
+    },
+    "advanced-adventurer": {
+      "name": "SSI Advanced Adventurer",
+      "description": "Similar to Advanced Open Water Diver.",
+      "flyingfishPrice": "₹21,780 + GST",
+      "flyingfishDuration": "2-3 days",
+      "maxDepth": "30m"
+    },
+    "wreck-diving": {
+      "name": "SSI Wreck Diving",
+      "description": "Learn safe wreck diving techniques.",
+      "flyingfishPrice": "₹11,979 + GST",
+      "flyingfishDuration": "1-2 days"
+    },
+    "waves-tides-currents": {
+      "name": "SSI Waves, Tides & Currents",
+      "description": "Learn to safely dive in environments with waves, tides, and currents.",
+      "flyingfishPrice": "₹12,276 + GST",
+      "flyingfishDuration": "1-2 days"
+    },
+    "underwater-photo-video": {
+      "name": "SSI Underwater Photo & Video",
+      "description": "Capture stunning underwater photos and videos.",
+      "flyingfishPrice": "₹13,959 + GST",
+      "flyingfishDuration": "1-2 days"
+    },
+    "two-specialty-bundle": {
+      "name": "SSI 2 Specialty Kit Bundle",
+      "description": "Bundle any two specialty courses at a discounted rate.",
+      "flyingfishPrice": "₹17,280 + GST"
+    }
+  }
+}

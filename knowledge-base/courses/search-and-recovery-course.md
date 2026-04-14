@@ -1,0 +1,341 @@
+# search-and-recovery - Course Info
+
+**Source:** https://www.divessi.com/en/advanced-training/scuba-diving/search-and-recovery
+**Scraped:** 2026-04-14T11:07:54.550Z
+
+---
+
+[Advanced](https://www.divessi.com/en/advanced-training) [Scuba Diving](https://www.divessi.com/en/advanced-training/scuba-diving) [Search & Recovery](https://www.divessi.com/en/advanced-training/scuba-diving/search-and-recovery)
+
+![](https://my.divessi.com/img_repository/category/continue_scuba-banner.jpg/600)
+
+© Mares
+
+![](https://i.ytimg.com/vi/sRFG1hhdMJw/maxresdefault.jpg)
+
+Search & Recovery Specialty \| Master Underwater Search Techniques
+
+![](https://i.ytimg.com/vi/370zoHPVu1E/maxresdefault.jpg)
+
+This is the Ocean \| Scuba Schools International
+
+![](https://my.divessi.com/img_repository/category/continue_scuba-banner.jpg/large)
+
+![](https://i.ytimg.com/vi/sRFG1hhdMJw/maxresdefault.jpg)
+
+Search & Recovery Specialty \| Master Underwater Search Techniques
+
+![](https://i.ytimg.com/vi/370zoHPVu1E/maxresdefault.jpg)
+
+This is the Ocean \| Scuba Schools International
+
+# Become a certified search and recovery diver
+
+In this fascinating program, you will learn all the skills you need to safely and confidently conduct search and recovery dives.
+
+You will be taught how to use search patterns, specialized dive plans and equipment such as lift bags, lines and reels. By developing your search and communication techniques and practicing searches in a dive team, you will become a confident search and rescue diver in no time.
+
+Upon completion, you will earn the SSI Search & Recovery specialty certification.
+
+
+## Discover Local Course Dates
+
+Whether you’re on the move or planning ahead, we’ve got you covered. Never miss out on exciting training opportunities and register with ease.
+
+
+##### Facts and Training Standards
+
+### Minimum Age
+
+12
+
+### Amount of Academic Sessions
+
+4
+
+### Amount of Pool/Confined Water Sessions
+
+1
+
+### Amount of Open Water Sessions
+
+2
+
+### Maximum Training Depth
+
+30 m / 100 ft
+
+### Suggested duration (h)
+
+10-15
+
+### Certification Prerequisites
+
+Open Water Diver certification
+
+[SSI Standards](https://training.divessi.com/index.php?logintype=login&extauth[action]=previewaccess&id=22797338&L=0)
+
+##### Languages
+
+![portuguese (brazil)](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/BR.svg)
+
+Português (Brazil)
+
+![english](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/EN.svg)
+
+English
+
+![english-imperial](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/US.svg)
+
+English US (imperial)
+
+![german](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/DE.svg)
+
+Deutsch
+
+![greek](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/GR.svg)
+
+ελληνικά
+
+![italian](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/IT.svg)
+
+Italiano
+
+![japanese](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/JP.svg)
+
+日本語
+
+![korean](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/KR.svg)
+
+한국어
+
+![portuguese (europe)](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/PT.svg)
+
+Português (Portugal)
+
+![russian](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/RU.svg)
+
+Русский
+
+![spanish](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/ES.svg)
+
+Español
+
+![turkish](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/TR.svg)
+
+Türkçe
+
+![ukrainian](https://my.divessi.com/dropbox-2/SSI_Corp_Graphics/websiteFiles/7_icons/flags/ISO2/UA.svg)
+
+українська мова
+
+## Uncover hidden treasures
+
+Here are the benefits you can expect from attending this training program:
+
+
+Learn proper underwater search patterns and recovery techniques
+
+
+Plan and execute a safe search and recovery operation
+
+
+Gain the knowledge to judge water conditions and risks and learn what equipment is required to conduct an effective search and recovery operation
+
+
+### Continue your Training and earn free Recognition
+
+Upgrade your training experience by taking more Specialty Programs. These are a perfect match for your current training! When you complete a certain number of Specialty Programs paired with Logged Dives, you will also automatically earn the SSI Recognition Ratings – SSI Specialty Diver, SSI Advanced Open Water Diver and SSI Master Diver.
+
+Continue your SSI Specialty training right away and earn recognition as you become a safer and more comfortable diver!
+
+
+[![](https://my.divessi.com/cview/SC-LV/400)\\
+\\
+**Night Diving & Limited Visibility**\\
+\\
+Diving does not end when the sun goes down! Become a night diver and meet the incredible marine life that only comes out at night. Join the SSI Night Diving and Limited Visibility specialty program.\\
+\\
+10\\
+\\
+Minimum Age\\
+\\
+5-10\\
+\\
+Suggested duration (h)\\
+\\
+2\\
+\\
+Open Water Sessions](https://www.divessi.com/en/advanced-training/scuba-diving/night-diving-and-limited-visibility)
+
+[![](https://my.divessi.com/cview/SC-NV/400)\\
+\\
+**Navigation**\\
+\\
+Become a better, more confident diver who always knows where they are going. Learn how to use a dive compass, natural navigation techniques and more. Join the SSI Navigation specialty today!\\
+\\
+10\\
+\\
+Minimum Age\\
+\\
+5-10\\
+\\
+Suggested duration (h)\\
+\\
+2\\
+\\
+Open Water Sessions](https://www.divessi.com/en/advanced-training/scuba-diving/navigation)
+
+[![](https://my.divessi.com/cview/SC-SR/400)\\
+\\
+**Stress & Rescue**\\
+\\
+Learn to identify stress, prevent accidents, and learn rescue diver skills with this essential Diver Stress and Rescue Specialty program. Help yourself and other divers to stay safe. Get started now!\\
+\\
+12\\
+\\
+Minimum Age\\
+\\
+10-15\\
+\\
+Suggested duration (h)\\
+\\
+3\\
+\\
+Open Water Sessions](https://www.divessi.com/en/advanced-training/scuba-diving/stress-and-rescue)
+
+#### More Information
+
+##### Training Prerequisites
+
+SSI Entry-Level Programs – Open Water Diver, Freediver, or Mermaid require students to complete a water fitness evaluation prior to open water training. The goal of this evaluation is to determine a comfort level baseline consisting of:
+
+
+Swim Assessment
+
+
+Survival Float
+
+
+##### Technical Requirements
+
+To start training, students must create a MySSI profile. This can either be done via the SSI website at www.divessi.com/register or by installing the MySSI App.
+
+
+Simply download the app for either iOS or Android, set up the user profile, and access the world of diving in minutes! The MySSI App safely stores everything in one place, online or offline – training materials, logbook, and certification cards. This includes Recreational Scuba, Extended Range, Freediving and Mermaid.
+
+
+##### Training Center Selection & Affiliation
+
+Every student must select an SSI Training Center as their “Training Partner” during the course registration process. Affiliation ensures personalized service and a high-quality training experience.
+
+
+Students can also change affiliation or choose to affiliate with multiple Training Centers in their user profile. When affiliating with a Training Center online or via the MySSI App, a Privacy Policy Agreement will be processed to comply with GDPR regulations.
+
+
+##### Medical & Administrative Requirements
+
+Each student or candidate must complete the required SSI Training Record Forms prior to participating in any SSI training program. The forms for minors must be reviewed and signed by a parent or guardian.
+
+
+Responsible Diver Code
+
+
+[SSI Responsible Diver Code - Scuba Diving](https://www.divessi.com/training/responsible-diver-code-scuba) [SSI Responsible Diver Code - Freediving](https://www.divessi.com/training/responsible-diver-code-freediving) [SSI Responsible Diver Code - Extended Range Diving](https://www.divessi.com/training/responsible-diver-code-extended-range)
+
+Diver Medical Statement & Questionnaire or Physician’s Approval to Dive (where required)
+
+
+Training Assumption of Risk, Liability Release, & Liability Release, & Hold Harmless Agreement (where required / not applicable within the European Union)
+
+
+Program-specific Completion Record (done by the Instructor prior to certification)
+
+
+##### Training Course Costs
+
+Training consists of various components which are either charged singly or as a package depending on the selected Training Center. The components are:
+
+
+Training Materials / Digital Kit
+
+
+Tuition for Academics and In-Water Training
+
+
+Open Water Training Dives
+
+
+Certification
+
+
+## Discover the Wonders of the Deep with SSI's Blog
+
+Join us on an exciting journey of discovery and learn more about exhilarating diving adventures, dedicated conservation initiatives, and innovative educational opportunities that will help you illuminate the extraordinary beauty of the underwater world. Let's explore the underwater world together and delve into the hidden wonders beneath the gentle waves.
+
+
+[![World Shootout Marks 20 Years with Image of the Two Decades](https://cdn.divessi.com/cached/websiteFiles/blog_and_bulletin/misc/blog/jakob-owens-vuOThokjHRk-unsplash.jpg/300.jpg)\\
+**World Shootout Marks 20 Years with Image of the Two Decades** 2026-04-14\\
+\\
+Learn about World Shootout's Image of the Two Decades, including key dates, judging process, and how underwater photography shapes diving.](https://www.divessi.com/en/blog/world-shootout-20-years-underwater-photography-2619) [![SSI Divers in the Spotlight: Stories from the Global Press](https://cdn.divessi.com/cached/websiteFiles/blog_and_bulletin/misc/blog/Pressemitteilungen.jpg/300.jpg)\\
+**SSI Divers in the Spotlight: Stories from the Global Press** 2026-04-06\\
+\\
+Discover how SSI divers are making waves in global media, from expeditions and conservation to training and inspiring community stories.](https://www.divessi.com/en/blog/ssi-divers-global-press-2612) [![Meet the Faces of the SSI Ambassador Program 2026](https://cdn.divessi.com/cached/websiteFiles/__blog/1-6.png/300.png)\\
+**Meet the Faces of the SSI Ambassador Program 2026** 2026-03-28\\
+\\
+Meet the 2026 SSI Ambassador Program team—divers, creators, and ocean advocates inspiring a new generation of underwater explorers.](https://www.divessi.com/en/blog/ssi-ambassador-program-2026-2597)
+
+#### Featured destinations that are ideal for advanced scuba diving
+
+Try a range of dive styles, improve your skills and get the experience you need to explore the world’s best dive sites. Whatever your dive passion, we have an SSI advanced training program for you. Get your SSI Specialty certifications to become a safe and comfortable diver.
+
+
+[![](https://cdn.divessi.com/cached/Mexico_iStock-ferrantraite.jpg/400.jpg)\\
+\\
+© iStock/ferrantraite\\
+\\
+**Mexico**\\
+\\
+Diving in Mexico is a breathtaking, world-class experience. This country offers many adventures and a landscape full of natural wonders.\\
+\\
+Learn more](https://www.divessi.com/en/mydiveguide/destination/mexico-9750859) [![](https://cdn.divessi.com/cached/USA_Florida_iStock-LUNAMARINA.jpg/400.jpg)\\
+\\
+© iStock-Lunamarina\\
+\\
+**Florida**\\
+\\
+The Sunshine State Florida offers many great and divers dive sites from the tropical Florida Keys to deep shipwrecks and crystal clear freshwater springs.\\
+\\
+Learn more](https://www.divessi.com/en/mydiveguide/destination/florida-9750743) [![](https://cdn.divessi.com/cached/Croatia_iStock-_ultraforma_.jpg/400.jpg)\\
+\\
+© iStock/ultraforma\\
+\\
+**Croatia**\\
+\\
+A historically rich country in Southeast Europe, bordering the Adriatic Sea, Croatia is called “the country of a thousand islands”.\\
+\\
+Learn more](https://www.divessi.com/en/mydiveguide/destination/croatia-9750157) [![](https://cdn.divessi.com/cached/Honduras_AdobeStock_Christopher.jpg/400.jpg)\\
+\\
+© AdobeStock/Christopher\\
+\\
+**Honduras**\\
+\\
+Compared to other Caribbean diving hot-spots, Honduras is just as good and even better than some sites, but with the advantage that it is cheaper.\\
+\\
+Learn more](https://www.divessi.com/en/mydiveguide/destination/honduras-9750907) [![](https://cdn.divessi.com/cached/Indonesia_iStock-tawatchaiprakobkit.jpg/400.jpg)\\
+\\
+© iStock/tawatchaiprakobkit\\
+\\
+**Indonesia**\\
+\\
+Indonesia is considered one of the best diving destinations in the world with more than 17,500 islands distributed over 5,000 kilometers.\\
+\\
+Learn more](https://www.divessi.com/en/mydiveguide/destination/indonesia-9749373) [![](https://cdn.divessi.com/cached/Italy_iStock-RudyBalasko.jpg/400.jpg)\\
+\\
+© iStock/RudyBalasko\\
+\\
+**Italy**\\
+\\
+Italy is a peninsula in southern Europe, famously shaped like a boot that is surrounded by three parts of Mediterranean - offering various dive sites.\\
+\\
+Learn more](https://www.divessi.com/en/mydiveguide/destination/italy-9750522)

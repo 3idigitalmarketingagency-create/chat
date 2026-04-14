@@ -1,0 +1,75 @@
+{
+  "note": "FlyingFish Scuba School is an official Goa Tourism adventure partner — listed on goa-tourism.com/adventure alongside 5 other operators. The chatbot can mention this partnership as credibility and suggest these as companion/rest-day activities, but diving stays the primary focus.",
+  "source": "https://goa-tourism.com/adventure/",
+  "positioning": "FlyingFish is Goa Tourism's exclusive Diving Centre (as stated on their official adventure page). Mention the GTDC partnership when asked about credibility, authenticity, or 'is this government-recognised'.",
+  "officialBookingPortal": "https://bookings.goa-tourism.com/Appln/UIL/ActivitiesHome",
+  "activities": [
+    {
+      "name": "FlyingFish Scuba School",
+      "slug": "flyingfish-scuba",
+      "category": "Scuba Diving",
+      "isUs": true,
+      "positioning": "Goa Tourism's exclusive Diving Centre — that's us!",
+      "pageUrl": "https://goa-tourism.com/adventure/flyingfish-scuba/"
+    },
+    {
+      "name": "Bungy Jumping (Jumpin Heights)",
+      "slug": "bungy-jumping",
+      "category": "Bungy / Free Fall",
+      "operator": "Jumpin Heights",
+      "location": "Mayem Lake, North Goa (~35 min from Baga Beach)",
+      "height": "55 metres",
+      "ageLimit": "12 to 45 years",
+      "weightLimit": "40 to 110 kg",
+      "duration": "~1.5 hours (with briefing, ticketing, waiting)",
+      "closedDays": "Tuesdays",
+      "closedSeason": "Mid-June to mid-August (monsoon)",
+      "medicalRestrictions": "Not for people with heart conditions, high BP, spondylitis, back issues, recent fractures, dislocations, epilepsy, pregnancy, osteoporosis",
+      "website": "www.jumpinheights.com",
+      "phone": "+91 80809 68171",
+      "bookingUrl": "https://bookings.goa-tourism.com/Appln/UIL/ActivitiesHome?__Mode=AC007",
+      "pairingTip": "Bungy one day, scuba the next — very different adrenaline profiles. Bungy is North Goa, we're Candolim.",
+      "background": "Jumpin Heights has operated 1,00,000+ jumps since 2010 (started in Rishikesh). Run by ex-Army officers, follows Australia/New Zealand safety standards."
+    },
+    {
+      "name": "White Water Rafting (Goa Rafting)",
+      "slug": "white-water-rafting",
+      "category": "River Rafting",
+      "operator": "Goa Rafting (Southern River Adventures + GTDC tie-up)",
+      "location": "Mhadei River, Mhadei Wildlife Sanctuary",
+      "season": "June to October only (monsoon)",
+      "status": "Operational from June 2026",
+      "website": "www.goarafting.com",
+      "email": "goarafting@gmail.com",
+      "phone": "+91 95453 05734",
+      "pairingTip": "Perfect monsoon alternative — rafting is ONLY available when our diving is closed (June–September). If a customer wants action during monsoon, this is the answer."
+    },
+    {
+      "name": "Konkan Explorers",
+      "slug": "konkan-explorers",
+      "category": "Nautical Tours / Yachting",
+      "description": "Yachting experiences, cruises and nautical sports. Two vessels designed in New Zealand for the Indian environment.",
+      "email": "konkanexplorersgoa@gmail.com",
+      "phone": "+91 96893 13506",
+      "bookingUrl": "https://bookings.goa-tourism.com/Appln/UIL/ActivitiesHome?__Mode=AC009",
+      "pairingTip": "Great for non-diving companions who want time on the water without getting in it."
+    },
+    {
+      "name": "Soul Travelling",
+      "slug": "soul-travelling",
+      "category": "Experiential / Cultural Travel",
+      "description": "Immersive travel startup focused on Goa's cultural heritage, hidden gems and authentic local experiences — goes beyond typical tourist itineraries.",
+      "bookingUrl": "https://bookings.goa-tourism.com/Appln/UIL/ActivitiesHome?__Mode=AC018",
+      "pairingTip": "Add a cultural/heritage day to a diving trip — good for groups that want a mix."
+    },
+    {
+      "name": "Indiahikes",
+      "slug": "indiahikes",
+      "category": "Trekking & Hiking",
+      "description": "India's largest trekking community (20,000+ trekkers/year). Founded 12+ years ago by Arjun Majumdar and Sandhya UC. Philosophy: 'Everyone Must Trek.'",
+      "bookingUrl": "https://bookings.goa-tourism.com/Appln/UIL/ActivitiesHome?__Mode=AC019",
+      "pairingTip": "Great off-season alternative during monsoon when diving is closed."
+    }
+  ],
+  "handoffMessage": "For non-diving adventures, guests can book directly on the official Goa Tourism portal at bookings.goa-tourism.com. FlyingFish only books scuba diving — everything else is via the respective operator or GTDC."
+}
